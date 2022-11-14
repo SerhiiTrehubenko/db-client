@@ -8,3 +8,9 @@
 /dataSources.local.xml
 /.idea
 untitled.iml
+/target
+/.settings
+.classpath
+.project
+/out
+diagram.uml
